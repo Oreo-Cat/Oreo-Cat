@@ -31,12 +31,12 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oreo+Cat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕" />
 </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -79,10 +79,14 @@
 
 ###
 
+<h3 align="left">🎮 My Contributions</h3>
 <img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!" />
+</h1>
 <p align="left"></p>
 
 ###
