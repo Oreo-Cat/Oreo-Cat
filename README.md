@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="150" alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/image.jpg?raw=true"  />
+  <img height="300" alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.jpg?raw=true"  />
 </div>
 
 
