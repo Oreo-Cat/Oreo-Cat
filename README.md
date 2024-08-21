@@ -31,7 +31,8 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕" />
+  <hr>
 </h1>
 
 ###
@@ -40,7 +41,7 @@
 
 ###
 
-<p align="left">I'm a pet-loving developer from England. 🐈🐕<br><br>- 🔭 I’m working on a crazy golf inspired platformer<br>- 🌱 I'm currently learning how to properly use GitHub!<br>- 🔨 I've been coding bugs since 2019<br>- ⚡Fun fact: A cat was the Mayor of an Alaskan town for 20 years!</p>
+<p align="left">I'm a pet-loving developer from England. 🐈🐕<br><br><br>- 🔭 I’m working on a crazy golf inspired platformer<br><br>- 🌱 I'm currently learning how to properly use GitHub!<br><br>- 🔨 I've been coding bugs since 2019<br><br>- ⚡Fun fact: A cat was the Mayor of an Alaskan town for 20 years!</p><br><hr><br>
 
 ###
 
@@ -80,12 +81,12 @@
 ###
 
 <h3 align="left">🎮 My Contributions</h3>
-<img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" /><br><hr><br>
 
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thank+you+for+visiting!" />
 </h1>
 <p align="left"></p>
 
