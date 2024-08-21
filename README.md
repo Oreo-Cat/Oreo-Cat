@@ -5,9 +5,8 @@
 ###
 
 <div align="center">
-  <img height="300" alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.jpg?raw=true"  />
+  <img alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.jpg?raw=true"  />
 </div>
-
 
 ###
 
@@ -32,7 +31,7 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕"  />
   <hr>
 </h1>
 
