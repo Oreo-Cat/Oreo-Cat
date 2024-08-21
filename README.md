@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.jpg?raw=true"  />
+  <img width=800px alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.png?raw=true"  />
 </div>
 
 ###
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me 👩‍💻</h2>
+<h2 align="left">👩‍💻 About Me 👩‍💻</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools 🛠</h2>
+<h2 align="left">🛠 Language and tools 🛠</h2>
 
 ###
 
@@ -69,20 +69,22 @@
 
 ###
 
-<h3 align="left">🔥 My Stats 🔥</h2>
+<h2 align="left">🔥 My Stats 🔥</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center" margin=100px>
+  <img src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" width="700" alt="stats graph"  /><br>
+  <img src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
 </div>
 
 ###
 
-<h3 align="left">🎮 My Contributions 🎮</h2>
+<h2 align="left">🎮 My Contributions 🎮</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" /><br><hr><br>
+  <img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" /><br><br>
+  <img src="https://github-profile-trophy.vercel.app?username=Oreo-Cat&theme=nord&no-bg=true" height="110" alt="trophy graph"  /><br><hr><br>
 </div>
 
 ###
