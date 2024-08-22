@@ -81,7 +81,7 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: light)" src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph">
+    <source media="(prefers-color-scheme: dark)" src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph">
   </picture>
 </div>
 
