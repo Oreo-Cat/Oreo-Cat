@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/TopWaves.svg" height="200px" width="100%">
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/TopWaves.svg" height="150px" width="100%">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oreo-Cat.Oreo-Cat&left_color=dimgrey&right_color=steelblue"  />
 </div>
 
