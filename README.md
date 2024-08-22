@@ -79,6 +79,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
 </div>
 
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: light)" src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph">
+  </picture>
+</div>
+
 ###
 
 <h2 align="left">🎮 My Contributions 🎮</h2>
