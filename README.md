@@ -92,5 +92,5 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thank+you+for+visiting!" />
-  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" height="100px" width="100%">
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" height="150px" width="100%">
 </div>
