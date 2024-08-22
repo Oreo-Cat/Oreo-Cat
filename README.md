@@ -30,13 +30,13 @@
 
 ###
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕"  />
   <hr>
-</h1>
+</div>
 
 ###
-
+<br>
 <h2 align="left">👩‍💻 About Me 👩‍💻</h2>
 
 ###
@@ -85,14 +85,10 @@
 <h2 align="left">🎮 My Contributions 🎮</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" /><br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=Oreo-Cat&theme=nord&no-bg=true" height="110" alt="trophy graph"  /><br><hr><br>
+  <img src="https://github-profile-trophy.vercel.app?username=Oreo-Cat&theme=nord&no-bg=true" height="110" alt="trophy graph"  /><br><br><hr>
 </div>
 
-###
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thank+you+for+visiting!" />
-</h1>
-<p align="left"></p>
-
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thank+you+for+visiting!" />
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg">
+</div>
