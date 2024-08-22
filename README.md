@@ -1,5 +1,6 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oreo-Cat.Oreo-Cat&left_color=dimgrey&right_color=steelblue"  />
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" height="200px" width="100%">
 </div>
 
 ###
