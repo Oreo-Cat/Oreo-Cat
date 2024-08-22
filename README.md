@@ -76,7 +76,12 @@
 ###
 
 <div align="center">
+  
+  ![Stats light mode](https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1#gh-light-mode-only)
+  ![Stats dark mode](https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1#gh-light-mode-only)
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" width="700" alt="stats graph"  /><br>
+  
   <img src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
 </div>
