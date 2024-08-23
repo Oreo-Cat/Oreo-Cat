@@ -78,23 +78,19 @@
 <div align="center">
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1">
-  <img alt="Stats graph" src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" width="700">
+    <img alt="Stats graph" src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" width="700">
+  </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3">
-  <img alt="Stats graph" src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5&order=3">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700">
+    <img alt="Streak graph" src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=vue&hide_border=true&border_radius=5&order=3" width="700">
+  </picture>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2">
-  <img alt="Stats graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true&order=2">
-</picture>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" width="700" alt="stats graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=Oreo-Cat&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" width="700" alt="streak graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700" alt="languages graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700">
+    <img alt="Languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true&order=2" width="700">
+  </picture>
 </div>
 
 ###
