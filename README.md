@@ -3,13 +3,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oreo-Cat.Oreo-Cat&left_color=dimgrey&right_color=steelblue"  />
 </div>
 
-###
-
 <div align="center">
   <img width=800px alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.png?raw=true"  />
-</div>
-
-###
+</div
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="photoshop logo"  />
@@ -29,23 +25,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕"  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=80&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕"  />
   <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" >
   <hr>
 </div>
 
-###
 <br>
 <h2 align="left">👩‍💻 About Me 👩‍💻</h2>
 
-###
-
 <p align="left">I'm a pet-loving developer from England. 🐈🐕<br><br><br>- 🔭 I’m working on a crazy golf inspired platformer<br><br>- 🌱 I'm currently learning how to properly use GitHub!<br><br>- 🔨 I've been coding bugs since 2019<br><br>- ⚡Fun fact: A cat was the Mayor of an Alaskan town for 20 years!</p><br><hr><br>
 
-###
 <details closed>
   <summary><h2 align="left">🛠 Language and tools 🛠</h2></summary>
   <div align="center">
@@ -66,8 +56,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
   </div>
 </details>
-
-###
 
 <details closed>
   <summary><h2 align="left">🔥 My Stats 🔥</h2></summary>
@@ -90,8 +78,6 @@
     </picture>
   </div>
 </details>
-
-###
 
 <details closed>
   <summary><h2 align="left">🎮 My Contributions 🎮</h2></summary>
