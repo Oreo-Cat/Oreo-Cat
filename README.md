@@ -85,8 +85,8 @@
       <img alt="Languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true&order=2" width="700">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="700">
-      <img alt="Languages graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="700">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1D252C&color=5D8CB3&line=718CA1&point=FFFFFF&hide_border=true" width="700">
+      <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1D252C&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="700">
     </picture>
   </div>
 </details>
