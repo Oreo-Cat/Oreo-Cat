@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/TopWaves.svg" height="150px" width="100%">
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/TopWaves.svg">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oreo-Cat.Oreo-Cat&left_color=dimgrey&right_color=steelblue"  />
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Oreo+Cat;+And+I+love+my+pets!+🐈+🐕"  />
-  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" height="200px" width="100%">
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" >
   <hr>
 </div>
 
@@ -111,5 +111,5 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Thank+you+for+visiting!" />
-  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg" height="150px" width="100%">
+  <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Waves.svg">
 </div>
