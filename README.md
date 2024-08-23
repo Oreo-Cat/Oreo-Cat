@@ -91,14 +91,23 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=city_lights&hide_border=true&order=2" width="700">
     <img alt="Languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oreo-Cat&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true&order=2" width="700">
   </picture>
+  
 </div>
 
 ###
 
 <h2 align="left">🎮 My Contributions 🎮</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg" alt="Snake animation" /><br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=Oreo-Cat&theme=nord&no-bg=true" height="110" alt="trophy graph"  /><br><br><hr>
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg">
+    <img alt="Snake contributions graph" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.png?raw=true">
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=Oreo-Cat&theme=nord&no-bg=true" width="700">
+    <img alt="Trophy graph" src="https://github-profile-trophy.vercel.app?username=Oreo-Cat&" height="110">
+  </picture>
+  <br><br><hr>
 </div>
 
 <div align="center">
