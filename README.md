@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1">
+  <img alt="Stats graph" src="https://github-readme-stats.vercel.app/api?username=Oreo-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1">
+</picture>
+
+
 <div align="right">
   <img src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/TopWaves.svg" height="150px" width="100%">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Oreo-Cat.Oreo-Cat&left_color=dimgrey&right_color=steelblue"  />
