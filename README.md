@@ -86,7 +86,7 @@
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1D252C&color=5D8CB3&line=718CA1&point=FFFFFF&hide_border=true" width="700">
-      <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=1D252C&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="700">
+      <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Oreo-Cat&bg_color=FFFFFF&color=273849&line=60C397&point=273849&hide_border=true" width="700">
     </picture>
   </div>
 </details>
