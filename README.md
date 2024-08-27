@@ -86,7 +86,7 @@
   <div align="center"> 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oreo-Cat/Oreo-Cat/output/snake.svg">
-      <img alt="Snake contributions graph" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.png?raw=true">
+      <img alt="Snake contributions graph" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Light-mode%20text.png?raw=true">
     </picture>
     <br><br>
     <picture>
