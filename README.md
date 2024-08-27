@@ -6,7 +6,7 @@
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner-dark.png?raw=true">
-      <img width=800px alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner.png?raw=true">
+      <img width=800px alt="Banner Image" src="https://github.com/Oreo-Cat/Oreo-Cat/blob/main/Banner-light.png?raw=true">
     </picture>
 </div
 
