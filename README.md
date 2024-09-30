@@ -39,7 +39,7 @@
 <br>
 <h2 align="left">👩‍💻 About Me 👩‍💻</h2>
 
-<p align="left">I'm a pet-loving developer from England. 🐈🐕<br><br><br>- 🔭 I’m working on a crazy golf inspired platformer<br><br>- 🌱 I'm currently learning how to properly use GitHub!<br><br>- 🔨 I've been coding bugs since 2019<br><br>- ⚡Fun fact: A cat was the Mayor of an Alaskan town for 20 years!</p><br><hr><br>
+<p align="left">I'm a pet-loving developer from England. 🐈🐕<br><br><br>- 🔭 I’m working on a crazy golf inspired game<br><br>- 🌱 I'm currently learning how to properly use GitHub!<br><br>- 🔨 I've been coding bugs since 2019<br><br>- ⚡Fun fact: A cat was the Mayor of an Alaskan town for 20 years!</p><br><hr><br>
 
 <details closed>
   <summary><h2 align="left">🛠 Language and tools 🛠</h2></summary>
